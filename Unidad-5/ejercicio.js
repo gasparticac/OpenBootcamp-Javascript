@@ -15,3 +15,5 @@ let meterHeight = 2.10;
 let weight = 211.5;
 let roundedHeight = Math.ceil(meterHeight);
 let roundedWeight = Math.floor(weight);
+let maxValue = Number.MAX_VALUE;
+let isMax = maxValue === (maxValue + 1);
