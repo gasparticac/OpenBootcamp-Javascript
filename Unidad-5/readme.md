@@ -1,6 +1,8 @@
 ## Métodos y funciones vistas en la sección
 
-- Math.round(var)
+- Math.round(var) --> devuelve el valor var redondeado
+- Math.ceil(var) --> redondea var para arriba
+- Math.floor(var) --> redondea var para abajo
 - number.toString()
 - number.toFixed(q) --> donde q es la cantidad de decimales deseadas, resultado tipo str.
 - number.toPrecision(q)--> limita el number en la cantidad q de cifras significativas.
