@@ -6,4 +6,5 @@ Formas de exportar archivos:
   1. Colocar la propiedad "type:module" dentro del package.json de la carpeta principal del proyecto (no dentro del modulo)
   2. En el módulo de las funciones exportarlas con "export function..."
   3. Importarlas dentro del main como import {} from "path"... se puede hacer destructuring
-
+- Librería Axios
+  - npm i axios
